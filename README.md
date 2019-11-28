@@ -12,7 +12,7 @@
   </tr>
   <tbody>
     <tr>
-      <td><img src="images/title.jpg" width="759" height="312" alt=""/></td>
+      <td><img src="images/title1.jpg" width="759" height="312" alt=""/></td>
     </tr>
   </tbody>
 </table>  
