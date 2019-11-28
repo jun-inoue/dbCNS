@@ -4,7 +4,7 @@
     <td>dbCNS is a database of Conserved Non-coding Sequences (CNSs).<br>
         The database consists of published CNEs and genome sequences.<br>
         Users can <br>
-              (1) collect published CNSs using a key word such as target gene name.<br>
+              (1) collect published CNSs using a key word such as target gene names.<br>
               (2) generate a candidate CNS sequence using a user-defined-SNP cortinate.<br>
               (3) make a multiple alignment of CNSs by uploading query sequences.<br>
   </tr>
