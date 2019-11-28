@@ -7,7 +7,7 @@
         Users can <br>
             - collect published CNSs using key word. <br>
             - make multiple alignments of CNSs by uploading query sequences.<br>
-        dbCNS also allows users to generate candidate CNS sequence using a SNP cortinate.
+        dbCNS also allows users to generate a candidate CNS sequence using a user-defined-SNP cortinate.
   </tr>
   <tbody>
     <tr>
