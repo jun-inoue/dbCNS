@@ -6,7 +6,7 @@
         Users can <br>
             (1) collect published CNSs using a key word such as target gene name.<br>
             (2) generate a candidate CNS sequence using a user-defined-SNP cortinate.<br>
-            (3) make multiple alignments of CNSs by uploading query sequences.<br>
+            (3) make a multiple alignment of CNSs by uploading query sequences.<br>
   </tr>
   <tbody>
     <tr>
