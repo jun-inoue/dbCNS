@@ -3,7 +3,7 @@
 
 <table width="200" border="0">
   <tr>
-    <td>dbCNS is a database of Conserved Non-coding Sequences (CNSs). <br>
+    <td>dbCNS is a database of Conserved Non-coding Sequences (CNSs). The database consists of published CNEs and genome sequences.<br>
         Users can <br>
             - collect published CNSs using key word. <br>
             - make multiple alignments of CNSs by uploading query sequences.<br>
