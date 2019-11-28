@@ -1,6 +1,4 @@
 # dbCNS
- Database of conserved non-coding sequence
-
 <table width="200" border="0">
   <tr>
     <td>dbCNS is a database of Conserved Non-coding Sequences (CNSs).<br>
