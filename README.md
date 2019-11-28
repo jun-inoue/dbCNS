@@ -16,4 +16,4 @@
   </tbody>
 </table>  
 
-<b>Web servise:</b> Under construction  (28 Jan. 2019).  
+<b>Web tool:</b> Under construction  (28 Jan. 2019).  
