@@ -1,0 +1,8 @@
+Ciona-intestinalis_Black
+Callorhinchus-milii_Green
+Lepisosteus-oculatus_Purple
+Latimeria-chalumnae_Orange
+Xenopus-tropicalis_Orange
+Gallus-gallus_Magenta
+Heterocephalus-glaber-female-N_Red
+Homo-sapiens_Blue
