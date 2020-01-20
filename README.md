@@ -17,7 +17,7 @@ Using the downloaded pipeline, the number of blast hits can be counted from mult
 
 3. Run the pipeline.
 ```
-./010get_num_pos.py
+python3 010get_num_pos.py
 ```
 4. Open 020out_num_blasthits.txt file by your Excel.
 
