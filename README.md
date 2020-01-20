@@ -11,7 +11,7 @@ a database and an identification pipeline for conserved noncoding sequences of v
 
 Using the downloaded pipeline, the number of blast hits can be counted from multiple results:
 
-1. Download and decompress [get_num_positions_blasthits.zip](https://github.com/jun-inoue/dbCNS/tree/master/images/get_num_positions_blasthits.zip). 
+1. Download and decompress [get_num_positions_blasthits.zip](images/get_num_positions_blasthits.zip). 
 
 2. From you terminal, cd into get_num_positions_blasthits directory.
 
@@ -21,5 +21,7 @@ python3 010get_num_pos.py
 ```
 4. Open 020out_num_blasthits.txt file by your Excel.
 
+
+![analisis group](images/analysisGroup.jpg)
 
 <br />  
