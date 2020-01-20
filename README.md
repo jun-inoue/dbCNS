@@ -13,11 +13,13 @@ Using the downloaded pipeline, the number of blast hits can be counted from mult
 
 1. Download and decompress [get_num_positions_blasthits.zip](https://github.com/jun-inoue/dbCNS/tree/master/images/get_num_positions_blasthits.zip). 
 
-2. Run the pipeline.
+2. From you terminal, cd into get_num_positions_blasthits directory.
+
+3. Run the pipeline.
 ```
 ./010get_num_pos.py
 ```
-3. Open 020out_num_blasthits.txt file by your Excel.
+4. Open 020out_num_blasthits.txt file by your Excel.
 
 
 <br />  
