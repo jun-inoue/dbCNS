@@ -22,6 +22,6 @@ python3 010get_num_pos.py
 4. Open 020out_num_blasthits.txt file by your Excel.
 
 
-![analisis group](images/analysisGroup.jpg)
+![get_num_positions_blasthits.jpg](images/get_num_positions_blasthits.jpg)
 
 <br />  
