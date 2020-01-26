@@ -81,12 +81,13 @@ The actual rocess is as follows:
 
 2. Select an appropriate sequences and save 010_alignment.txt file.
 
-3. Cd into 100_2ndAnalysis.
+3. cd into the 100_2ndAnalysis directory.
+
 4. Run the pipeline.
 ```
 python3 100_estimate2nd.py
 ```
-5. Automatically, the 2nd alignment is saved in 200_alignment.html file and the 2nd CNS tree is save in 200_NJTree.pdf.
+5. Automatically, the 2nd alignment is saved in the 200_alignment.html file and the 2nd CNS tree is save in the 200_NJTree.pdf file.
 
 <br />  
 
