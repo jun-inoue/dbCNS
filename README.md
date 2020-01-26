@@ -10,7 +10,7 @@ Users can
   </tr>
   <tbody>
     <tr>
-      <td><img src="images/dbCNS_oneWord.jpg" width="759" height="312" alt=""/></td>
+      <td><img src="images/dbCNS_oneWord.jpg" width="582" height="457" alt=""/></td>
     </tr>
   </tbody>
 </table>  
