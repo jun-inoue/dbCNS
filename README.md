@@ -92,11 +92,14 @@ python3 100_estimate2nd.py
 
 ### Detecting accelerated CNSs as long branches
 
-Using the branch lengths of the 2nd CNS tree, users can can detect accelerated CNSs.   Branch lengths from root to tip are save in the 200_branchLengths.txt file.   I made a R script to conduct 
+Using the branch lengths of the 2nd CNS tree, users can can detect accelerated CNSs.   Branch lengths from root to tip are save in the 200_branchLengths.txt file.   I made a R script to perform the Mann-Whitney U test for branch lengths.
 
-The actual rocess is as follows:   
+From the terminal, Mac users can run the script as follows:
+```
+R --save <110_Wilcoxon-rank-sum-test.R >110_commandlog.txt
+```
+In this script, the branch lengths are compared between foreground and background. Users should write species names in the foreground_species variable (line 9).
 
-1. Decompress the dow
 
 ### Count the number of blast hits from multiple results
 
