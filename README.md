@@ -101,6 +101,7 @@ R --save <110_Wilcoxon-rank-sum-test.R >110_commandlog.txt
 ```
 In this script, the branch lengths are compared between foreground and background. Users should write species names in the foreground_species variable (line 9).
 
+<br />  
 
 ### Count the number of blast hits from multiple results
 
