@@ -43,7 +43,6 @@ The 2nd analysis  requires some dependencies to be installed and in the system p
 #### Mafft v7.407:
 Available here: [https://mafft.cbrc.jp/alignment/software/](https://mafft.cbrc.jp/alignment/software/).  
 After compilation, set your PATH following [this site](https://mafft.cbrc.jp/alignment/software/add_path.html).  
-
 <br />   
 
 
