@@ -55,7 +55,7 @@ Cd to trimAl/source, type make, and copy the executable.
 make
 cp trimal ~/bin
 ```  
-<br />  
+<br />
 
 #### Ape in R:
 R (3.5.2) is available from [here](https://cran.ism.ac.jp).  
