@@ -2,7 +2,7 @@
 
 <table width="200" border="0">
   <tr>
-    <td>dbCNS (http://yamasati.nig.ac.jp/dbcns) is a database and an identification pipeline for conserved noncoding sequences (CNSs) of vertebrates. The database contains 2 sources: more than 800,000 published CNSs and 170 vertebrate genome sequences.<br>
+    <td>dbCNS (http://yamasati.nig.ac.jp/dbcns) is a database and an identification pipeline for conserved noncoding sequences (CNSs) of vertebrates. The database contains 2 sources: more than 680,000 published CNSs and 170 vertebrate genome sequences.<br>
 Users can <br>
 - find CNSs near interested genes from the database by uploading keywords.<br>
 - construct multiple sequence alignments and CNS trees by uploading CNS sequences as queries.<br>
@@ -26,12 +26,14 @@ Users can <br>
 NIG (from 27 Jan 2020)   
 [http://yamasati.nig.ac.jp/dbcns](http://yamasati.nig.ac.jp/dbcns).
 
+<br />  
 
 ---
 ## The 2nd analysis using output
 By using selected sequences of dbCNS results, users can construct alignments and CNS trees secondary.  
 I made an analysis pipeline for this 2nd step. The script is specialized for a Macintosh use with Python 3. Windows users need some modifications.  
-Analysis pipeline with example data: [cre21.zip](https://github.com/jun-inoue/dbCNS/tree/master/images/cre21.zip).
+Analysis pipeline with example data: [cre21.zip](https://github.com/jun-inoue/dbCNS/tree/master/images/cre21.zip).   
+<br />   
 
 ### Installing Dependencies
 
@@ -42,8 +44,7 @@ The 2nd analysis  requires some dependencies to be installed and in the system p
 #### Mafft v7.407:
 Available here: [https://mafft.cbrc.jp/alignment/software/](https://mafft.cbrc.jp/alignment/software/).  
 After compilation, set your PATH following [this site](https://mafft.cbrc.jp/alignment/software/add_path.html).  
-
-<br />   
+<br />  
 
 
 #### trimAl v1.2 (Official release):
@@ -53,8 +54,7 @@ Cd to trimAl/source, type make, and copy the executable.
 make
 cp trimal ~/bin
 ```  
-<br />  
-
+<br />   
 
 #### Ape in R:
 R (3.5.2) is available from [here](https://cran.ism.ac.jp).  
@@ -63,9 +63,7 @@ By installing R, [rscript](https://stat.ethz.ch/R-manual/R-devel/library/utils/h
 ```
 install.packages("ape")
 ```
-<br />
-<br />  
-
+<br />   
 
 ### The 2nd analysis
 
@@ -81,12 +79,13 @@ The actual rocess is as follows:
 
 2. Select an appropriate sequences and save 010_alignment.txt file.
 
-3. Cd into 100_2ndAnalysis.
+3. cd into the 100_2ndAnalysis directory.
+
 4. Run the pipeline.
 ```
 python3 100_estimate2nd.py
 ```
-5. Automatically, the 2nd alignment is saved in 200_alignment.html file and the 2nd CNS tree is save in 200_NJTree.pdf.
+5. Automatically, the 2nd alignment is saved in the 200_alignment.html file and the 2nd CNS tree is save in the 200_NJTree.pdf file.
 
 <br />  
 
@@ -100,6 +99,7 @@ R --save <110_Wilcoxon-rank-sum-test.R >110_commandlog.txt
 ```
 In this script, the branch lengths are compared between foreground and background. Users should write species names in the foreground_species variable (line 9).
 
+<br />  
 
 ### Count the number of blast hits from multiple results
 
@@ -115,6 +115,7 @@ python3 010get_num_pos.py
 ```
 4. Open 020out_num_blasthits.txt file by your Excel.
 
+5. Coordinates of blast hits were saved in 020out_pos_blasthits.txt file.  
 
 ![get_num_positions_blasthits.jpg](images/get_num_positions_blasthits.jpg)
 
