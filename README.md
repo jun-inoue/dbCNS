@@ -115,6 +115,7 @@ python3 010get_num_pos.py
 ```
 4. Open 020out_num_blasthits.txt file by your Excel.
 
+5. Coordinates of blast hits were saved in 020out_pos_blasthits.txt file.  
 
 ![get_num_positions_blasthits.jpg](images/get_num_positions_blasthits.jpg)
 
