@@ -120,3 +120,4 @@ python3 010get_num_pos.py
 ![get_num_positions_blasthits.jpg](images/get_num_positions_blasthits.jpg)
 
 <br />  
+ 
