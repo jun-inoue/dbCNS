@@ -32,8 +32,7 @@ NIG (from 27 Jan 2020)
 ## The 2nd analysis using output
 By using selected sequences of dbCNS results, users can construct alignments and CNS trees secondary.  
 I made an analysis pipeline for this 2nd step. The script is specialized for a Macintosh use with Python 3. Windows users need some modifications.  
-Analysis pipeline with example data: [cre21.zip](https://github.com/jun-inoue/dbCNS/tree/master/images/cre21.zip).
-<br />  
+Analysis pipeline with example data: [cre21.zip](https://github.com/jun-inoue/dbCNS/tree/master/images/cre21.zip).   
 
 
 ### Installing Dependencies
@@ -56,7 +55,6 @@ make
 cp trimal ~/bin
 ```  
 <br />
-
 #### Ape in R:
 R (3.5.2) is available from [here](https://cran.ism.ac.jp).  
 By installing R, [rscript](https://stat.ethz.ch/R-manual/R-devel/library/utils/html/Rscript.html) will be installed automatically.  
@@ -64,7 +62,6 @@ By installing R, [rscript](https://stat.ethz.ch/R-manual/R-devel/library/utils/h
 ```
 install.packages("ape")
 ```
-<br />  
 
 
 ### The 2nd analysis
