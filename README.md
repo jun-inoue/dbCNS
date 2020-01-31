@@ -57,7 +57,6 @@ cp trimal ~/bin
 ```  
 <br />  
 
-
 #### Ape in R:
 R (3.5.2) is available from [here](https://cran.ism.ac.jp).  
 By installing R, [rscript](https://stat.ethz.ch/R-manual/R-devel/library/utils/html/Rscript.html) will be installed automatically.  
