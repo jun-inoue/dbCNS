@@ -10,8 +10,6 @@ Users can <br>
   </tr>
 </table>  
 
-<b>Japanese instruction (日本語の説明):</b> [http://yamasati.nig.ac.jp/dbcns/instructionJPN.html](http://yamasati.nig.ac.jp/dbcns/instructions.html)
-
 <br><br>
 
 
