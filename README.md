@@ -2,7 +2,7 @@
 
 <table width="200" border="0">
   <tr>
-    <td>dbCNS is a database and an identification pipeline for conserved noncoding sequences (CNSs) of vertebrates. The database contains 2 sources: more than 6,800,000 published CNSs and 171 genome sequences.<br>
+    <td>[dbCNS](http://yamasati.nig.ac.jp/dbcns/) is a database and an identification pipeline for conserved noncoding sequences (CNSs) of vertebrates. The database contains 2 sources: more than 6,800,000 published CNSs and 171 genome sequences.<br>
 Users can <br>
 - find CNSs near interested genes from the database by uploading keywords.<br>
 - construct multiple sequence alignments and CNS trees by uploading CNS sequences as queries.<br>
