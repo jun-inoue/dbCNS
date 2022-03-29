@@ -20,7 +20,7 @@ NIG (from 27 Jan 2020) - fast
 [http://yamasati.nig.ac.jp/dbcns/dbcns101.html](http://yamasati.nig.ac.jp/dbcns/dbcns101.html).
 
 SAKURA internet - slow (from 20 Oct 2021)   
-[http://133.167.86.72/dbcns/](http://133.167.86.72/dbcns/).
+[http://133.167.86.72/dbcns/dbcns101.html](http://133.167.86.72/dbcns/dbcns101.html).
 
 
 <br />  
