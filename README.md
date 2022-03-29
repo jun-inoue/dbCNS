@@ -16,10 +16,10 @@ Users can <br>
 ---
 
 ## Web sites
-NIG (from 27 Jan 2020)   
+NIG (from 27 Jan 2020) - fast   
 [http://yamasati.nig.ac.jp/dbcns/dbcns101.html](http://yamasati.nig.ac.jp/dbcns/dbcns101.html).
 
-SAKURA internet - Osaka (from 20 Oct 2021)   
+SAKURA internet - slow (from 20 Oct 2021)   
 [http://133.167.86.72/dbcns/](http://133.167.86.72/dbcns/).
 
 
