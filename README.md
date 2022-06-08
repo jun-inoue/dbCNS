@@ -23,5 +23,13 @@ SAKURA internet - slow (from 20 Oct 2021)
 [http://133.167.86.72/dbcns/dbcns101.html](http://133.167.86.72/dbcns/dbcns101.html).
 
 
+---
+## Citation
+Inoue, J., Saitou, N. 2021. 
+dbCNS: a new database for conserved noncoding sequences. Molecular Biology and Evolution 38: 1665–1676. [Link](https://academic.oup.com/mbe/article/38/4/1665/5983335?login=false).
+
+---
+## Contact 
+Email: [_jinoueATg.ecc.u-tokyo.ac.jp_](http://www.fish-evol.org/index_eng.html)
 <br />  
 
