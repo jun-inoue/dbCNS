@@ -22,6 +22,9 @@ NIG (from 27 Jan 2020) - fast
 SAKURA internet - slow (from 20 Oct 2021)   
 [http://133.167.86.72/dbcns/dbcns101.html](http://133.167.86.72/dbcns/dbcns101.html).
 
+---
+## Instruction
+[Link](http://133.167.86.72/dbcns/instructionENG.html).
 
 ---
 ## Citation
