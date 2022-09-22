@@ -14,8 +14,9 @@ Users can <br>
 ---
 
 ## Web sites
-AORI-viento (from 18 June 2022) - fast   
+<!-- AORI-viento (from 18 June 2022) - fast   
 [http://157.82.133.212/dbcns/dbcns101.html](http://157.82.133.212/dbcns/dbcns101.html).
+-->
 
 NIG (from 27 Jan 2020) - mediam   
 [http://yamasati.nig.ac.jp/dbcns/dbcns101.html](http://yamasati.nig.ac.jp/dbcns/dbcns101.html).
