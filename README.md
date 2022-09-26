@@ -14,9 +14,8 @@ Users can <br>
 ---
 
 ## Web sites
-<!-- AORI-viento (from 18 June 2022) - fast   
+AORI-viento (from 18 June 2022) - fast   
 [http://157.82.133.212/dbcns/dbcns101.html](http://157.82.133.212/dbcns/dbcns101.html).
--->
 
 SAKURA internet - slow (from 20 Oct 2021)   
 [http://133.167.86.72/dbcns/dbcns101.html](http://133.167.86.72/dbcns/dbcns101.html).
