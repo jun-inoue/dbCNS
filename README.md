@@ -17,12 +17,11 @@ Users can <br>
 AORI-viento (from 18 June 2022) - fast   
 [http://157.82.133.212/dbcns/dbcns101.html](http://157.82.133.212/dbcns/dbcns101.html).
 
+NIG (from 27 Jan 2020) - mediam   
+[http://yamasati.nig.ac.jp/dbcns/dbcns101.html](http://yamasati.nig.ac.jp/dbcns/dbcns101.html).
+
 SAKURA internet - slow (from 20 Oct 2021)   
 [http://133.167.86.72/dbcns/dbcns101.html](http://133.167.86.72/dbcns/dbcns101.html).
-
-<!-- NIG (from 27 Jan 2020) - mediam   
-[http://yamasati.nig.ac.jp/dbcns/dbcns101.html](http://yamasati.nig.ac.jp/dbcns/dbcns101.html).
--->
 
 ---
 ## Instruction
