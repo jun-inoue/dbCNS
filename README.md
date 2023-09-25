@@ -29,7 +29,9 @@ SAKURA internet - slow (from 20 Oct 2021)
 
 ---
 ## Instruction
-[Link](http://133.167.86.72/dbcns/instructionENG.html).
+[English](http://133.167.86.72/dbcns/instructionENG.html).
+
+[Japanese](https://fish-evol.org/dbcns/instructionJPN.html).
 
 ---
 ## Citation
