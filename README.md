@@ -12,11 +12,6 @@ Users can <br>
 
 ---
 
-## NEWS
-Mirro viento will be closed from 15 Sep 3:00pm to 19 Sep noon (Japan time, 2023), due to the planned power outage.
-
----
-
 ## Web sites
 AORI-viento (from 18 June 2022) - fast   
 [https://orthoscope.jp/dbcns/dbcns101.html](https://orthoscope.jp/dbcns/dbcns101.html).
