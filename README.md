@@ -14,16 +14,18 @@ Users can <br>
 
 ## Web sites
 AORI-yurai (from 5 May 2025) - fast   
-Coming Soon    
+[https://yurai.aori.u-tokyo.ac.jp/dbcns/dbcns101.html](https://yurai.aori.u-tokyo.ac.jp/dbcns/dbcns101.html)
 
+<!-- 
 AORI-viento (from 18 June 2022) - fast   
-[https://orthoscope.jp/dbcns/dbcns101.html](https://orthoscope.jp/dbcns/dbcns101.html).
+[https://orthoscope.jp/dbcns/dbcns101.html](https://orthoscope.jp/dbcns/dbcns101.html)
+-->
 
 NIG (from 27 Jan 2020) - mediam   
-[http://yamasati.nig.ac.jp/dbcns/dbcns101.html](http://yamasati.nig.ac.jp/dbcns/dbcns101.html).
+[http://yamasati.nig.ac.jp/dbcns/dbcns101.html](http://yamasati.nig.ac.jp/dbcns/dbcns101.html)
 
 SAKURA internet - slow (from 20 Oct 2021)   
-[http://133.167.86.72/dbcns/dbcns101.html](http://133.167.86.72/dbcns/dbcns101.html).
+[http://133.167.86.72/dbcns/dbcns101.html](http://133.167.86.72/dbcns/dbcns101.html)
 
 ---
 ## Instruction
