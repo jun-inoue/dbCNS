@@ -10,22 +10,30 @@ Users can <br>
   </tr>
 </table>  
 
-
 ---
 
 ## Web sites
+AORI-yurai (from 5 May 2025) - fast   
+[https://yurai.aori.u-tokyo.ac.jp/dbcns/dbcns101.html](https://yurai.aori.u-tokyo.ac.jp/dbcns/dbcns101.html)
+
+<!-- 
 AORI-viento (from 18 June 2022) - fast   
-[http://157.82.133.212/dbcns/dbcns101.html](http://157.82.133.212/dbcns/dbcns101.html).
+[https://orthoscope.jp/dbcns/dbcns101.html](https://orthoscope.jp/dbcns/dbcns101.html)
+-->
 
 NIG (from 27 Jan 2020) - mediam   
-[http://yamasati.nig.ac.jp/dbcns/dbcns101.html](http://yamasati.nig.ac.jp/dbcns/dbcns101.html).
+[http://yamasati.nig.ac.jp/dbcns/dbcns101.html](http://yamasati.nig.ac.jp/dbcns/dbcns101.html)
 
 SAKURA internet - slow (from 20 Oct 2021)   
-[http://133.167.86.72/dbcns/dbcns101.html](http://133.167.86.72/dbcns/dbcns101.html).
+[http://133.167.86.72/dbcns/dbcns101.html](http://133.167.86.72/dbcns/dbcns101.html)
 
 ---
 ## Instruction
-[Link](http://133.167.86.72/dbcns/instructionENG.html).
+English   
+[http://133.167.86.72/dbcns/instructionENG.html](http://133.167.86.72/dbcns/instructionENG.html).
+
+日本語の例題集    
+[https://fish-evol.org/dbcns/instructionJPN.html](https://fish-evol.org/dbCNS/instructionJPN.html)).
 
 ---
 ## Citation
