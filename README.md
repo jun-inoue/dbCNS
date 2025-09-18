@@ -14,7 +14,7 @@ Users can <br>
 
 ## Web sites
 AORI-yurai (from 5 May 2025) - fast   
-"Due to a scheduled power outage, the system will be suspended from 3:00 PM on September 27, 2025, until noon on September 30."   
+"Due to a scheduled power outage, the system will be suspended from 3:00 PM on September 27, 2025, until noon on September 29."   
 [https://yurai.aori.u-tokyo.ac.jp/dbcns/dbcns101.html](https://yurai.aori.u-tokyo.ac.jp/dbcns/dbcns101.html)
 
 <!-- 
