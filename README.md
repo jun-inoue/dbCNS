@@ -14,6 +14,7 @@ Users can <br>
 
 ## Web sites
 AORI-yurai (from 5 May 2025) - fast   
+"Due to a scheduled power outage, the system will be suspended from 3:00 PM on September 27, 2025, until noon on September 30."   
 [https://yurai.aori.u-tokyo.ac.jp/dbcns/dbcns101.html](https://yurai.aori.u-tokyo.ac.jp/dbcns/dbcns101.html)
 
 <!-- 
@@ -21,7 +22,7 @@ AORI-viento (from 18 June 2022) - fast
 [https://orthoscope.jp/dbcns/dbcns101.html](https://orthoscope.jp/dbcns/dbcns101.html)
 -->
 
-NIG (from 27 Jan 2020) - mediam   
+NIG (from 27 Jan 2020)   
 [http://yamasati.nig.ac.jp/dbcns/dbcns101.html](http://yamasati.nig.ac.jp/dbcns/dbcns101.html)
 
 <!-- 
