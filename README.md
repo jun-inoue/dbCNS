@@ -14,7 +14,7 @@ Users can <br>
 
 ## Web sites
 AORI-yurai (from 5 May 2025) - fast   
-[https://yurai.aori.u-tokyo.ac.jp/dbcns/dbcns101.html](https://yurai.aori.u-tokyo.ac.jp/dbcns/dbcns101.html)
+[https://yurai.aori.u-tokyo.ac.jp/dbcns/index.html](https://yurai.aori.u-tokyo.ac.jp/dbcns/index.html)
 
 <!-- 
 AORI-viento (from 18 June 2022) - fast   
