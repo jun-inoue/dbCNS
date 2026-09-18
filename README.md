@@ -14,17 +14,16 @@ Users can <br>
 
 ## Web sites
 AORI-yurai (from 5 May 2025) - fast   
+The server will be offline Sept 25, 15:00 JST – Sept 28, 12:00 JST due to scheduled campus power maintenance.   
 [https://yurai.aori.u-tokyo.ac.jp/dbcns/index.html](https://yurai.aori.u-tokyo.ac.jp/dbcns/index.html)
 
 <!-- 
 AORI-viento (from 18 June 2022) - fast   
 [https://orthoscope.jp/dbcns/dbcns101.html](https://orthoscope.jp/dbcns/dbcns101.html)
--->
 
 NIG (from 27 Jan 2020)   
 [http://yamasati.nig.ac.jp/dbcns/dbcns101.html](http://yamasati.nig.ac.jp/dbcns/dbcns101.html)
 
-<!-- 
 SAKURA internet - slow (from 20 Oct 2021)   
 [http://133.167.86.72/dbcns/dbcns101.html](http://133.167.86.72/dbcns/dbcns101.html)
 -->
