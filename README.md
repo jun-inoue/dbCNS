@@ -14,7 +14,6 @@ Users can <br>
 
 ## Web sites
 AORI-yurai (from 5 May 2025) - fast   
-The server will be offline Sept 25, 15:00 JST – Sept 28, 12:00 JST due to scheduled campus power maintenance.   
 [https://yurai.aori.u-tokyo.ac.jp/dbcns/index.html](https://yurai.aori.u-tokyo.ac.jp/dbcns/index.html)
 
 <!-- 
