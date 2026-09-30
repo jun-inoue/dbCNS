@@ -1,5 +1,8 @@
 # dbCNS
 
+> **🆕 New (30 Sep. 2026): The web interface now provides separate input fields for keyword search and sequence extraction.**
+
+
 <table width="200" border="0">
   <tr>
     <td><a href="http://yurai.aori.u-tokyo.ac.jp/dbcns/" target="_blank">dbCNS</a> is a database and an identification pipeline for conserved noncoding sequences (CNSs) of vertebrates. The database contains 2 sources: more than 6,800,000 published CNSs and 171 genome sequences.<br>
